@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "This I Shall Publish"
+title: "On Not Being a Very Good Blogger"
 date: 2012-11-23 16:48
 comments: true
 categories: ping
