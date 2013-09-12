@@ -1,0 +1,40 @@
+---
+layout: post
+title: "Play Nice, OS X"
+date: 2012-09-10 14:04
+comments: true
+categories: [geek, sysadmin, osx] 
+published: true
+---
+## installing Octopress on OS X Lion, _oy vey_
+
+My initial attempt to get ruby 1.9.3 on OS X Lion ended in frustration. I followed [the Octopress install instructions](http://octopress.org/docs/setup/) and attempted to install rbenv. This lead to a series of errors that had me installing an old version of gcc, clang, etc. I'm not a sysadmin, so I eventually just gave it up as a lost cause.
+
+So, I moved on to installing octopress on my Windows 7 laptop - done - and a virtualbox guest Ubuntu using rvm - done.
+
+Then, I discovered [JewelryBox](http://jewelrybox.unfiniti.com/) and decided to give the OS X install another shot.
+
+#### OS X Mountain Lion Install Log
+
+You can just skip this part if sysadmin details make you go cross-eyed.
+
+* first attempt - install ruby-1.9.3-p125 failed because of readline
+	+ found [this StackOver post](http://stackoverflow.com/questions/6970545/make-error-installing-ruby-1-9-2-with-rvm-and-readline-under-osx-lion) about installing readline using [homebrew](http://mxcl.github.com/homebrew/) _yes, that means installing homebrew_
+* second attempt - after installing homebrew, I ran `brew install readline`. It barfed because I didn't have Xcode 4.4.1. 
+	+ Cleaned up harddrive because I didn't have enough space to upgrade XCode
+	+ Opened the Mac Appstore and attempted to upgrade XCode
+	+ ran `brew doctor` and followed recommendations to remove macports/fink, old library files, and upgrade my compiler
+	+ after lots of wasted time, I was able to install readline. Now, to try installing ruby again...
+* third attempt - failed again trying to install readline
+	+ tried [this](http://stackoverflow.com/questions/10573753/trouble-installing-ruby-1-9-3)  and after following the reinstall instructions on the [rvm readline page](https://rvm.io/packages/readline/), it *works*.
+	
+```
+	$ rvm pkg install readline
+	$ rvm reinstall 1.9.3-p125 --with-readline-dir=$rvm_path/usr
+```
+	
+#### Lessons Learned
+
+* ruby is for hackers
+* Apple makes doing non-Apple things hard
+* [stackoverflow](http://stackoverflow.com) is an amazing asset for a developer
