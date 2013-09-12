@@ -6,7 +6,8 @@ comments: true
 categories: 
 ---
 
-My dad and I cheered on the Georgia Bulldogs in their win over South Carolina. Here's a taste of the atmosphere in Sanford Stadium.
+Here's a taste of the atmosphere in Sanford Stadium before Georgia's 41-30 win over South Carolina. _It also happens
+to be a good way to try out embedding Google+ pages_
 
 <!-- Place this tag in your head or just before your close body tag. -->
 <script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
