@@ -3,10 +3,12 @@ layout: post
 title: "G-E-O-R-G-I-A"
 date: 2013-09-11 18:47
 comments: true
-categories: 
+categories: uga
 ---
 
-Here's a taste of the atmosphere in Sanford Stadium before Georgia's 41-30 win over South Carolina. _It also happens
+Here's a taste of the atmosphere in Sanford Stadium before Georgia's 41-30 win over South Carolina. 
+
+_It also happens
 to be a good way to try out embedding Google+ pages_
 
 <!-- Place this tag in your head or just before your close body tag. -->
