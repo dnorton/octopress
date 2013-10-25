@@ -6,14 +6,13 @@ sharing: true
 footer: true
 ---
 
-There's plenty of information about me on Google+ and Twitter, so go there.
+Software developer and a runner who dabbles in triathlons. You are likely to find me tweeting or posting on Google+.
 
-### Contact Me
 
 * [@dnorton](http://twitter.com/dnorton)
-* [Google Plus](https://plus.google.com/100137691855191006154/posts)
-* _Google Voice_: `201-490-9616`
+* [+dnorton](https://plus.google.com/100137691855191006154)
 
-### QR Code Much?
 
-{% img /images/my_qr_code.png %}
+But feel free to email me if that's your thing.
+
+`daniel [at] dnorton.org`
