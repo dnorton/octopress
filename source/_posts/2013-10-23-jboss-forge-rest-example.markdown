@@ -30,7 +30,7 @@ Set up [Arquillian][2] tests
 * `forge install-plugin arquillian`
 * `arquillian setup --containerType EMBEDDED --containerName JBOSS_AS_EMBEDDED_6.X`
 
-Determine up the JPA persistence framework
+Determine the JPA persistence framework
 
 * `persistence setup --provider HIBERNATE --container JBOSS_AS7`
 
@@ -52,7 +52,7 @@ Since the `manyToOne` relationship is User -> * Workouts, we need to switch back
 * `entity --name User`
 * `field manyToOne --named workouts --fieldType com.coachcaleb.model.Workout.java --inverseFieldName user`
 
- 
+
 
 (this is where I'm stuck for now)
 
