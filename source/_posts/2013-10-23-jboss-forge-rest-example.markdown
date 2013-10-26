@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JBoss Forget REST Example"
+title: "JBoss Forge REST Example"
 date: 2013-10-23 21:06
 comments: true
 categories: 
