@@ -14,7 +14,7 @@ Coursera is an education company that partners with the top universities and org
 
 They host hundreds of free courses across many disciplines with an emphasis on technology and computer programming. It's a treasure trove for working software people like me.
 
-Like a kid with too much Halloween candy, I jumped in head first. Here are the courses that I have signed up for this year:
+Like a kid with too much Halloween candy, I gorged myself. Here are the courses that I have signed up for this year:
 
 * [Functional Programming Principles in Scala](https://class.coursera.org/progfun-002/class)
 * [Algorithms: Design and Analysis, Part 1 (Stanford University)](https://www.coursera.org/course/algo)
