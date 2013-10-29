@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "{Coursera}pathy"
+title: "\"Coursera\"pathy"
 date: 2013-10-28 21:06
 comments: true
-categories: 
+categories: coursera
+published: false 
 ---
 
-"Coursera"pathy
----------------
+

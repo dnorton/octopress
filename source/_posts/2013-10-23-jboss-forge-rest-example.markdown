@@ -3,10 +3,8 @@ layout: post
 title: "JBoss Forge REST Example"
 date: 2013-10-23 21:06
 comments: true
-categories: 
+categories: [JBoss, Sample, Coding] 
 ---
-JBoss Forge REST Sample
------------------------
 
 This is an ongoing blog post. I'm going to attempt to build a sample REST API after setting up the project using [JBoss Forge][1]
 
@@ -47,14 +45,17 @@ The Workout is slightly more complex. We need to record a title, distance, time,
 * `field long --named duration`
 * `field string --named description`
 
-Since the `manyToOne` relationship is User -> * Workouts, we need to switch back to `User` and add the relationship.
+Since the `manyToOne` relationship is User -> * Workouts, we need to switch back to `User` and add the relationship. In order to edit an existing file, you need to "pick it up"
 
-* `entity --name User`
+* `pick-up src/main/java/org/dnorton/workouts/model/User`
 * `field manyToOne --named workouts --fieldType com.coachcaleb.model.Workout.java --inverseFieldName user`
 
+Now, we're ready to set up the REST endpoints
 
+* `pick-up ../Workout.java`
+* `rest endpoint-from-entity --contentType application/json`
 
-(this is where I'm stuck for now)
+(_next up: deploy the app on JBoss_)
 
 [1]: http://forge.jboss.org/# "JBoss Forge"
 [2]: http://arquillian.org/ "Arquillian"
