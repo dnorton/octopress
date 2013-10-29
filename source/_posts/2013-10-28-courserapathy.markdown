@@ -4,7 +4,7 @@ title: "\"Coursera\"pathy"
 date: 2013-10-28 21:06
 comments: true
 categories: coursera
-published: false 
+published: true
 ---
 I am a huge fan of the MOOC (Massive Online Open Course) movement and [Coursera][1] in particular. I have signed up for several course this year:
 
