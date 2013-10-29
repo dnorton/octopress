@@ -6,7 +6,7 @@ comments: true
 categories: [JBoss, Sample, Coding] 
 ---
 
-This is an ongoing blog post. I'm going to attempt to build a sample REST API after setting up the project using [JBoss Forge][1]
+This is an ongoing blog post. I'm going to attempt to build a sample REST API after setting up the project using [JBoss Forge][1].
 
 The app will simply expose a REST API to post workout data. It will use Hibernate to talk to an in-memory database.
 
@@ -59,3 +59,4 @@ Now, we're ready to set up the REST endpoints
 
 [1]: http://forge.jboss.org/# "JBoss Forge"
 [2]: http://arquillian.org/ "Arquillian"
+[3]: http://vimeo.com/29755371 "JBoss Forge and Openshift video"
