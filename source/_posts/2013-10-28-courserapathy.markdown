@@ -12,9 +12,11 @@ I am a huge fan of the MOOC (Massive Online Open Course) movement, particularly 
 Coursera is an education company that partners with the top universities and organizations in the world to offer courses online for anyone to take, for free. Our technology enables our partners to teach millions of students rather than hundreds.
 </blockquote>
 
-They host hundreds of free courses across many disciplines with an emphasis on technology and computer programming. It's a treasure trove for working software people like me.
+They host hundreds of free courses across many disciplines with an emphasis on technology and computer programming. 
+It's a treasure trove for working software people like me.
 
-Like a kid with too much Halloween candy, I gorged myself. Here are the courses that I have signed up for this year:
+And like a kid with far too much Halloween candy, I gorged myself. 
+Here are the courses that I have signed up for this year:
 
 * [Functional Programming Principles in Scala](https://class.coursera.org/progfun-002/class)
 * [Algorithms: Design and Analysis, Part 1 (Stanford University)](https://www.coursera.org/course/algo)
