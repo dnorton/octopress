@@ -6,7 +6,7 @@ sharing: true
 footer: true
 ---
 
-Hi, I'm Daniel Norton. I'm a software developer (with 0 reputation points on [stackoverflow.com](http://www.stackoverflow.com) if that tells you anything), a runner who dabbles in triathlons and [HIIT](http://en.wikipedia.org/wiki/High-intensity_interval_training), a husband who is comically inept at home repair but can disassemble and reassemble a bike or a computer. You are likely to find me tweeting or posting on Google+.
+Hi, I'm Daniel Norton. I'm a software developer (with 1 reputation point on [stackoverflow.com](http://www.stackoverflow.com) if that tells you anything), a runner who dabbles in triathlons and [HIIT](http://en.wikipedia.org/wiki/High-intensity_interval_training), a husband who is comically inept at home repair but can disassemble and reassemble a bike or a computer. You are likely to find me tweeting or posting on Google+.
 
 
 * [@dnorton](http://twitter.com/dnorton)
