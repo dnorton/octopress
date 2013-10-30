@@ -23,7 +23,7 @@ Here are the courses that I have signed up for this year:
 * [Algorithms, Part I (Princeton University)](https://class.coursera.org/algs4partI-003/class)
 * [Bioinformatics Algorithms (Part 1) (University of California San Diego)](https://www.coursera.org/course/bioinformatics)
 
-I have completed exactly **NONE** of these courses, and that's a problem. Because they are free and very thorough, and the penalty for not completing the class so low, I haven't made the effort needed to invest fully in any of the classes. I always let life and work priorities supercede time I should be spending catching up on discrete mathematics or working on programming assignments.
+I have completed exactly **NONE** of these courses, and that's the problem. Because they are free and very thorough, and the penalty for not completing the class so low, I haven't made the effort needed to invest fully in any of the classes. I always let life and work priorities supercede time I should be spending catching up on discrete mathematics or working on programming assignments.
 
 I do think that taking the classes even if I don't finish is a positive thing. I am constantly learning skills 
 and gaining knowledge that have a direct bearing on my career. 
