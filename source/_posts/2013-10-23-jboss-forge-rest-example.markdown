@@ -55,7 +55,7 @@ Now, we're ready to set up the REST endpoints
 * `pick-up ../Workout.java`
 * `rest endpoint-from-entity --contentType application/json`
 
-(_next up: deploy the app on JBoss_)
+(_next up: deploy the app on OpenShift_)
 
 [1]: http://forge.jboss.org/# "JBoss Forge"
 [2]: http://arquillian.org/ "Arquillian"
