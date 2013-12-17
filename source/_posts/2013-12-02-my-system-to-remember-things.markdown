@@ -16,3 +16,20 @@ If I really want to remember something, **I should write it down.**
 This is especially true in the complex world of software development where on any given day I'm juggling between two or three different programming languages, SCM tools, databases, IDEs (because for some reason not everyone uses IntelliJ... weird, I know.) I'm reviewing SQL scripts, approving pull requests, debugging running systems.  And I might need to run a whole assortment of unix commands to keep everything humming along. 
 
 Thankfully, we live in a world with an almost limitless supply of tools for the memory deficient like me.
+
+### Google Keep
+
+### Evernote
+
+### Github
+
+### Google Drive
+
+### Dropbox
+
+
+[1]: https://drive.google.com/keep "Google Keep"
+[2]: https://www.evernote.com "Evernote"
+[3]: https://www.github.com "Github"
+[4]: https://drive.google.com/ "Google Drive"
+[5]: https://www.dropbox.com "Dropbox"
