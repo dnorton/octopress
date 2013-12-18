@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "My system to remember things"
-date: 2013-12-02 22:55:06 -0500
+title: "My System to Remember Things"
+date: 2013-12-18 20:00:06 -0500
 comments: true
 categories: lifehacks
 published: false
@@ -15,7 +15,7 @@ If I really want to remember something, **I should write it down.**
 
 This is especially true in the complex world of software development where on any given day I'm juggling between two or three different programming languages, SCM tools, databases, IDEs (because for some reason not everyone uses IntelliJ... weird, I know.) I'm reviewing SQL scripts, approving pull requests, debugging running systems.  And I might need to run a whole assortment of unix commands to keep everything humming along. 
 
-Thankfully, we live in a world with an almost limitless supply of tools for the memory deficient like me.
+Thankfully, we live in a world with an almost limitless supply of tools for the memory deficient like me.  Here are the services that top my list. 
 
 ### Google Keep
 
@@ -35,11 +35,19 @@ Third, although I don't suggest actually storing passwords in Evernote, it's ver
 
 ### Github
 
-
+[Github][3] is my preferred online dumping ground. Besides keeping all of my personal development projects either on github or [bitbucket,](https://bitbucket.org/dnorton) I have started adding useful development commands and notes a repository called [dev-notes.](https://github.com/dnorton/dev-notes) I reference these notes multiple times a day.
 
 ### Google Drive
 
+[Google Drive][4] makes another appearance on my list of useful memory tools. This is my Microsoft Office replacement, and I use it for detailed noting taking, presentations, spreadsheets, etc. When I'm learning a new language or taking a [Coursera](http://dnorton.org/blog/2013/10/28/courserapathy/) course, I will have a Document open to take notes. I then go back, edit, and refine the document so that it's easier to find useful information.
+
 ### Dropbox
+
+[Dropbox][5] is just a folder that lives everywhere. I keep all of my technical ebooks, photos, important documents in Dropbox so that I never have to worry about having them available. Simple and elegant.
+
+_There are other tools that creep around my periphery - [Trello](https://trello.com), [Google Calendar](http://calendar.google.com), [Gmail](http://gmail.com) just to name a few. Plus, I consider [Stack Overflow](http://stackoverflow.com) an extension of my brain._
+
+So, those are my favorite tools. What are yours?
 
 
 [1]: https://drive.google.com/keep "Google Keep"
