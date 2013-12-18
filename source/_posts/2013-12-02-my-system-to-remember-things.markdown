@@ -25,9 +25,17 @@ Thankfully, we live in a world with an almost limitless supply of tools for the 
 
 ### Evernote
 
-[Evernote][2] is the `Grand Pooba` of note taking apps. It can record almost anything. Because of the overwhelming options, it's a good idea to define and stick to a strategy.
+[Evernote][2] is the `Grand Pooba` of note taking apps. It can record almost anything. Because of the overwhelming options, it's a good idea to define and stick to a strategy. There are [millions of results for "how I use evernote"](https://www.google.com/search?q=how+I+use+evernote&oq=how+I+use+evernote&aqs=chrome..69i57j69i60l3j69i65l2.2577j0j7&sourceid=chrome&espv=210&es_sm=93&ie=UTF-8&safe=active) including [this lifehacker.com article.](http://lifehacker.com/5989980/ive-been-using-evernote-all-wrong-heres-why-its-actually-amazing) If you want a full run down of all the cool stuff it can do, go there first.  I'm just giving a brief summary of how I use it.
+
+First if you use Google Chrome, install [Evernote Web Clipper.](https://chrome.google.com/webstore/detail/evernote-web-clipper/pioclpoplcdbaefihamjohnefbikjilc) You'll thank me later.  You can use it to grab screen shots or whole articles of any web page. I always screen grab order confirmation pages and keep them in a "receipts" notebook.
+
+Second, take advantage of the Evernote Android app to scan business cards. I created a notebook called "contacts" that is just a collection of scanned business cards. The text parsing feature of Evernote makes this worthwhile, but I do suggest adding your own meta data to the card.
+
+Third, although I don't suggest actually storing passwords in Evernote, it's very useful for keeping some account information especially because the OSX and Windows desktop clients let you encrypt/hide text. _note: I don't use a password manager although I really should._
 
 ### Github
+
+
 
 ### Google Drive
 
