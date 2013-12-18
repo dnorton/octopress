@@ -19,7 +19,13 @@ Thankfully, we live in a world with an almost limitless supply of tools for the 
 
 ### Google Keep
 
+{% img /images/google_keep.jpg %}
+
+[Google Keep][1] is a relatively new offering from Google, but it is quite handy for short lists and notes. I tend to keep a daily task list of my top priorities that I create during our daily stand up. It helps me stay on task.
+
 ### Evernote
+
+[Evernote][2] is the `Grand Pooba` of note taking apps. It can record almost anything. Because of the overwhelming options, it's a good idea to define and stick to a strategy.
 
 ### Github
 
