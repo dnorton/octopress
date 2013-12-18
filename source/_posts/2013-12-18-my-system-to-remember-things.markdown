@@ -4,7 +4,7 @@ title: "My System to Remember Things"
 date: 2013-12-18 20:00:06 -0500
 comments: true
 categories: lifehacks
-published: false
+published: true
 ---
 
 I am quite forgetful. _(My wife will gladly back me on that statement.)_  
