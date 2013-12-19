@@ -29,6 +29,8 @@ Thankfully, we live in a world with an almost limitless supply of tools for the 
 
 First if you use Google Chrome, install [Evernote Web Clipper.](https://chrome.google.com/webstore/detail/evernote-web-clipper/pioclpoplcdbaefihamjohnefbikjilc) You'll thank me later.  You can use it to grab screen shots or whole articles of any web page. I always screen grab order confirmation pages and keep them in a "receipts" notebook.
 
+{% img /images/web_clipper.png %}
+
 Second, take advantage of the Evernote Android app to scan business cards. I created a notebook called "contacts" that is just a collection of scanned business cards. The text parsing feature of Evernote makes this worthwhile, but I do suggest adding your own meta data to the card.
 
 Third, although I don't suggest actually storing passwords in Evernote, it's very useful for keeping some account information especially because the OSX and Windows desktop clients let you encrypt/hide text. _note: I don't use a password manager although I really should._
