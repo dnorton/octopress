@@ -37,7 +37,7 @@ Third, although I don't suggest actually storing passwords in Evernote, it's ver
 
 ### Github
 
-[Github][3] is my preferred online dumping ground. Besides keeping all of my personal development projects either on github or [bitbucket,](https://bitbucket.org/dnorton) I have started adding useful development commands and notes a repository called [dev-notes.](https://github.com/dnorton/dev-notes) I reference these notes multiple times a day.
+[Github][3] is my preferred online dumping ground. Besides keeping all of my personal development projects either on github or [bitbucket,](https://bitbucket.org/dnorton) I have started adding useful development commands and notes in a repository called [dev-notes.](https://github.com/dnorton/dev-notes) These notes are an incredibly valuable asset to me, and I visit the repo multiple times a day. Here's a fun aside: I often jump to my dev notes by Googling "[dnorton dev notes](https://www.google.com/#q=dnorton+dev+notes)". Try it out. 
 
 ### Google Drive
 
