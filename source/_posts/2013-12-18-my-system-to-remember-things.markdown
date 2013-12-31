@@ -41,7 +41,7 @@ Third, although I don't suggest actually storing passwords in Evernote, it's ver
 
 ### Google Drive
 
-[Google Drive][4] makes another appearance on my list of useful memory tools. This is my Microsoft Office replacement, and I use it for detailed noting taking, presentations, spreadsheets, etc. When I'm learning a new language or taking a [Coursera](http://dnorton.org/blog/2013/10/28/courserapathy/) course, I will have a Document open to take notes. I then go back, edit, and refine the document so that it's easier to find useful information.
+[Google Drive][4] makes another appearance on my list of useful memory tools. This is my Microsoft Office replacement, and I use it for detailed note taking, presentations, spreadsheets, etc. When I'm learning a new language or taking a [Coursera](http://dnorton.org/blog/2013/10/28/courserapathy/) course, I will have a Document open to take notes. I then go back, edit, and refine the document so that it's easier to find useful information.
 
 ### Dropbox
 
