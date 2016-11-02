@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/dnorton
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://dnorton.org
+  * I am dnorton (https://keybase.io/dnorton) on keybase.
+  * I have a public key with fingerprint 8958 331A 3F85 4AB4 9C5D  D51B 319E C116 936D CEF5
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101d0c2ee9d149c56baf77388cc0c8b7a26d8694ba31718d821f4094c144c780a990a",
+            "fingerprint": "8958331a3f854ab49c5dd51b319ec116936dcef5",
+            "host": "keybase.io",
+            "key_id": "319ec116936dcef5",
+            "kid": "0101d0c2ee9d149c56baf77388cc0c8b7a26d8694ba31718d821f4094c144c780a990a",
+            "uid": "16d1d3c0bb3a12b5d86af0e746d01419",
+            "username": "dnorton"
+        },
+        "service": {
+            "hostname": "dnorton.org",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1478121718,
+    "expire_in": 157680000,
+    "prev": "52e6ba431d89ac47b4707d4107965b477736f69ac347b21bc69832cb9edc1dba",
+    "seqno": 5,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.58
+Comment: https://keybase.io/crypto
+
+yMIaAnicrVJdSBRRGN21VNwQQsiltJLJqMifufM/+1CmZEZS1EtK0Xb/dh3cZraZ
+0ZSUTITqoZASKjQKDSShoo1+aEnTJInoIUW0oB4EY4OECop8sLoj9RD02H253O87
+59zzHb7R7CW+gN+aHmjJ3toS9b8Y7mrw1ayq+XacQxZp5kLHuXq6eNEYoY4brjcI
+F+J4wAPCY4FSnQBJx7KCYERVRU3DmMcaUqGgEE3RJQRFoAKNaAKISLwuYSBJWNV4
+qOs85Iq4iGFGqR23DdNlspoua6IIoBjRZAkiT5gQGSAR6BQDoOiiQjCNyIxYZzke
+g5lD0KElhsVq7BFetPcP/H/23bAoBxQCiIh5hEQIBCQzKozwVJUUwgMJ6B7QobYJ
+j1CGJqZlu5bJtRZxrNhoYOrl6g3yN6DEsqOMGbct18JWjDXqXDce8nhuc9wDHqMo
+/FsijAyTsBAZoZHajsH0Q4AhsWt4mkBSNSB4oxRxtClu2DRseAhZVTSeHe8b2sgk
+ZYGyLCQREE2HWFKRpPIqkQCv6orMHiwkJaKwlsh6AkBY0TVRwEinBAOCvEwcetS0
+uJDMbMIok3SMqAndBptyrSNPDi71+QO+jPQ0b7l8gazlf1aOT8v8uW9XRvvRhbHq
+HOOKJc1cnvKfjnWcCm6IPG050HY7NfLp243aey9bd5fdrRnb3DOXnze3bc+1W93z
+2snvc5N7VwaDlcvyP7YXw9L5N69KjNqqwYre2rV3tva1lTblHjkk88eGvx6+UDS7
+sFNuullYMK613g9Onpjo3visuqJ9RXthdfPn0MwH7lMi8dwJPS6f+m4XvL3kH+kM
+zj4q3j/0pezExNnrA1n9W8J9H4zXtHJTbXR953h+cn401pGz7iFflUjRl++n15Tn
+dcPM1LmuzAY3/Yxg9thpq5cmA1efp87TVP/Ci5a+tNFkEu54sP3HkNNbjNoGLz7g
+ct/9SCT7H/8CDEg/CA==
+=FDFc
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/dnorton
+
+==================================================================
